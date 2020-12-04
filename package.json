@@ -42,6 +42,6 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "bitcoin-ops": "^1.3.0"
+    "@asoltys/bitcoin-ops": "^2.0.0"
   }
 }
